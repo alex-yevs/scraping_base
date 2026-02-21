@@ -1,6 +1,6 @@
-# Репозиторий теории и практических примеров по веб-скрапингу
+# Учебный репозиторий теории и практических примеров по веб-скрапингу
 
-Использованные источники:
+Использованные в материалах источники:
 
 * [Python’s standard documentation](https://docs.python.org/3/)
 * [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
